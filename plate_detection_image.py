@@ -12,7 +12,7 @@ excel_row = 2
 plate_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_russian_plate_number.xml')
 
 # Read the input image
-image_path = r"D:\Robomanthan\Number_plate_Detection\car_plate.jpg"
+image_path = r"car_plate.jpg"
 image = cv2.imread(image_path)
 
 # Convert the image to grayscale
