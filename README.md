@@ -1,6 +1,6 @@
 # License Plate Detection
 
-This project is aimed at detecting license plates in images and videos using OpenCV, pytesseract, and Haar cascade classifiers.
+This project is aimed at detecting license plates from images using OpenCV, pytesseract, and Haar cascade classifiers.
 
 ## Table of Contents
 
