@@ -7,7 +7,7 @@ This project is aimed at detecting license plates in images and videos using Ope
 - Requirements
 - [Installation](#installation)
 - [Usage](#usage)
-- Output
+- [Output](#output)
 
 ## Requirements
 
